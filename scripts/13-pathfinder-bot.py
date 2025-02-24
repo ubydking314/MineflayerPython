@@ -11,7 +11,7 @@ vec3 = require("vec3")
 
 # Global bot parameters
 server_host = "localhost"
-server_port = 3000
+server_port = 53479
 reconnect = True
 
 

@@ -12,7 +12,7 @@ reconnect = True
 
 # Setup Eliza chatbot
 eliza = eliza.Eliza()
-eliza.load("./eliza/doctor.txt")
+eliza.load("scripts/eliza/doctor.txt")
 
 
 class MCBot:
